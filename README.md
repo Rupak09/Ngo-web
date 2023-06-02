@@ -24,9 +24,16 @@ To start, follow these steps:
 
 Clone the repository: git clone https://github.com/Rupak09/Ngo-web.git
 Install dependencies: npm install
+
 Build the project: npm run build
+
+
 Start the server: npm start
+
+
 Test the project: npm test
+
+
 Access app through your web browser or mobile app: http://localhost:3000
 
 ## Key Concerns: 
