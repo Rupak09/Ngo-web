@@ -6,13 +6,11 @@ import ImgCarousel from './components/carousel/ImgCarousel'
 import Footer from './components/footer/Footer'
 import Selects from './components/selects/Selects';
 import SelectsImg from './components/SelectsImg/SelectsImg'
-
-
 function App() {
   return (
     <div>
       <Navbar />
-      <Hero />
+      <Hero />w
       <Images />
       <ImgCarousel />
       <Footer />
@@ -21,5 +19,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
