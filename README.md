@@ -30,6 +30,12 @@ Start the server: npm start
 Test the project: npm test
 Access app through your web browser or mobile app: http://localhost:3000
 
+## Key Concerns: 
+1) Backend connectivity for the application.
+2) Change or modification in the project's ui.
+3) Front-end is not fully completed.
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -59,4 +65,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 
