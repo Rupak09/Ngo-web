@@ -1,6 +1,6 @@
 # A NGO website dedicated to turtles serves as a platform to raise awareness about turtles conservation.
 
-Awareness about these fascinating creatures, provide valuable information through blogs, facilitate donations for conservation efforts, share details about the organization and its mission, and offer opportunities for help and volunteering. This comprehensive website aims to educate the public about turtles, their importance in ecosystems, and the challenges they face, while encouraging individuals to contribute to their conservation....
+Awareness about these fascinating creatures, provide valuable information through blogs, facilitate donations for conservation efforts, share details about the organization and its mission, and offer opportunities for help and volunteering. This comprehensive website aims to educate the public about turtles, their importance in ecosystems, and the challenges they face, while encouraging individuals to contribute to their conservation.
 
 ## Blogs: 
 The blog section of the website serves as an educational resource, offering a collection of articles, stories, and updates related to turtles. These blog posts cover a wide range of topics, including turtle species, their habitats, nesting habits, migration patterns, threats they face, conservation projects, success stories, and more. The blogs not only provide valuable insights into the lives of turtles but also inspire readers to take action in protecting these vulnerable creatures.
