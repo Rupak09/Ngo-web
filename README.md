@@ -19,3 +19,44 @@ This section encourages individuals to actively participate in turtle conservati
 NGOs play a vital role in turtle conservation. They engage in research to understand turtle populations, their behaviors, and their habitats. NGOs collaborate with governments, local communities, and other stakeholders to develop and implement conservation strategies. They establish protected areas, promote sustainable fishing practices, raise awareness through educational campaigns, conduct rescue and rehabilitation of injured turtles, and work to enforce legislation against illegal trade. NGOs also conduct outreach programs to educate communities about the importance of turtles and empower them to become stewards of conservation.
 
 By combining their expertise, resources, and passion, NGOs strive to safeguard turtle populations, restore their habitats, and advocate for their protection at local, national, and international levels. Through their dedicated efforts and collaboration, these organizations make significant contributions to the conservation of turtles and inspire others to join in the cause.
+
+# Getting started:
+To start, follow these steps:
+
+Clone the repository: git clone https://github.com/Rupak09/Ngo-web.git
+Install dependencies: npm install
+Build the project: npm run build
+Start the server: npm start
+Test the project: npm test
+Access app through your web browser or mobile app: http://localhost:3000
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
