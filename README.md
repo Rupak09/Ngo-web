@@ -1,5 +1,4 @@
-# A NGO website dedicated to turtles serves as a platform to raise awareness about turtles.
-
+# A NGO website dedicated to turtles serves as a platform to raise awareness about turtles conservation.
 
 Awareness about these fascinating creatures, provide valuable information through blogs, facilitate donations for conservation efforts, share details about the organization and its mission, and offer opportunities for help and volunteering. This comprehensive website aims to educate the public about turtles, their importance in ecosystems, and the challenges they face, while encouraging individuals to contribute to their conservation.
 
